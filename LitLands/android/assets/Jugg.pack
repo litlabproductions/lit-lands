@@ -1,0 +1,132 @@
+
+Jugg.png
+size: 8192,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bat_left
+  rotate: false
+  xy: 2, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+bat_right
+  rotate: false
+  xy: 7942, 1874
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+jugg_attack
+  rotate: false
+  xy: 2, 1650
+  size: 6144, 256
+  orig: 6144, 256
+  offset: 0, 0
+  index: -1
+jugg_black
+  rotate: false
+  xy: 2, 360
+  size: 3072, 256
+  orig: 3072, 256
+  offset: 0, 0
+  index: -1
+jugg_double_jump
+  rotate: false
+  xy: 2564, 102
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jugg_fall
+  rotate: false
+  xy: 4100, 1190
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jugg_idle
+  rotate: false
+  xy: 2, 876
+  size: 3072, 256
+  orig: 3072, 256
+  offset: 0, 0
+  index: -1
+jugg_idle_original
+  rotate: false
+  xy: 2, 618
+  size: 3072, 256
+  orig: 3072, 256
+  offset: 0, 0
+  index: -1
+jugg_jump
+  rotate: false
+  xy: 2, 102
+  size: 2560, 256
+  orig: 2560, 256
+  offset: 0, 0
+  index: -1
+jugg_run2
+  rotate: false
+  xy: 2, 1392
+  size: 4096, 256
+  orig: 4096, 256
+  offset: 0, 0
+  index: -1
+jugg_walk
+  rotate: false
+  xy: 2, 1134
+  size: 4096, 256
+  orig: 4096, 256
+  offset: 0, 0
+  index: -1
+jugg_run
+  rotate: false
+  xy: 2, 1134
+  size: 4096, 256
+  orig: 4096, 256
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 6148, 1650
+  size: 1792, 256
+  orig: 1792, 256
+  offset: 0, 0
+  index: -1
+swing2
+  rotate: false
+  xy: 4100, 1448
+  size: 1250, 200
+  orig: 1250, 200
+  offset: 0, 0
+  index: -1
+swing3
+  rotate: false
+  xy: 3076, 1020
+  size: 900, 112
+  orig: 900, 112
+  offset: 0, 0
+  index: -1
+zombie_attack
+  rotate: false
+  xy: 3076, 954
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1
+zombie_die
+  rotate: false
+  xy: 2, 36
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+zombie_walk
+  rotate: false
+  xy: 5352, 1584
+  size: 384, 64
+  orig: 384, 64
+  offset: 0, 0
+  index: -1

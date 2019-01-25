@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2017.09.13" orientation="orthogonal" renderorder="right-down" width="100" height="20" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#00000000" nextobjectid="135">
+ <tileset firstgid="1" source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/1_1/ground_1.tsx"/>
+ <tileset firstgid="37" source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/1_1/items.tsx"/>
+ <tileset firstgid="157" source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/1_1/ground_4.tsx"/>
+ <tileset firstgid="187" source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/1_1/ground_3.tsx"/>
+ <tileset firstgid="217" source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/1_1/ground_2.tsx"/>
+ <tileset firstgid="253" source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/1_1/portal.tsx"/>
+ <imagelayer name="Background">
+  <image source="../../../Lib-GDX/Projects/LitLands/android/assets/Land_1/Backgrounds/lava_bg_2.png" width="4352" height="2560"/>
+ </imagelayer>
+ <layer name="BackgroundGraphics" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlzEKAjEQRec0HkBsxW3sPID2VlqrtZ32XsBWtNBmjyEiexA9gROSwBISMTAkZP0PHsuSITPLJ4ElAgAAAGQY5x4AgMKY5B4AAAAAAEkZ5R6gYI6J+w0T9yuNG6XPBISpSWdyZi+k/zMqsxZ770ydd5yFeOqWKpdTy6tTu2P37IpdsEtnfU46y4GnTyU1cMexWSh6gZq+eR7YGbtl1+zGqXuwT/YuPOM/YfN4B/wVVdsYQ3tJ2HVsHi+PMah6m4dvLym7zrc8Yr4fecjwAZ38c+A=
+  </data>
+ </layer>
+ <layer name="Graphics" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1bEKglAYhmFvxroLhbYWt8DBRRJqz73Gcjavt084iwcOHAn9Fd4HXhRE+RDEJAGA/SmtB2CiccfCdAViXKwHYKK2HgAAAFZzUpn1CETLrQcAf7iq1J2fvWs3dZ/xLL6FZT1Uq97qozrv+vj+q8C9/FPmOaijK+SpXqpXXzUsPwsAsFE/cxYK7A==
+  </data>
+ </layer>
+ <layer name="GraphicsTwo" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0ApoAbE2ATU6QKxLpt6RCgiFDa4wHQW0A8ZQ2m5AXTEKYGAREM8D4vlUMIuUsmg07yEAsWEByjMONHLDYhqZO5wAevreAMQbB8gto4A4AMoz9mToG80PtAGg+oYadQ0MjObBUTDcAagMMx9oR4wCOCBUhhkjsUfLp4EHo3U5aQDUXrKFsm3xKSQCjJZb9AGlOMRNGCD1BywekfOCKU1dNDxBNAF5QyidikVuNwG9o+UUaeA5FvwMiD8B8Vsg/oEDv4aquUZ/J4848BGK3wHxPRz4BVTNaHzQHozGB/0BAAQCOfs=
+  </data>
+ </layer>
+ <objectgroup name="Ground" offsetx="-4" offsety="4">
+  <object id="95" x="512" y="1920" width="512" height="128"/>
+  <object id="97" x="2304" y="2048" width="512" height="128"/>
+  <object id="99" x="2944" y="1920" width="128" height="128"/>
+  <object id="100" x="3328" y="2048" width="128" height="128"/>
+  <object id="101" x="3584" y="1664" width="128" height="128"/>
+  <object id="102" x="2560" y="1536" width="256" height="128"/>
+  <object id="103" x="1920" y="1152" width="256" height="128"/>
+  <object id="104" x="1280" y="896" width="256" height="128"/>
+  <object id="109" x="384" y="640" width="384" height="128"/>
+  <object id="121" x="256" y="2176" width="2048" height="128"/>
+  <object id="127" x="3968" y="1536" width="256" height="128"/>
+  <object id="128" x="4480" y="1152" width="256" height="128"/>
+  <object id="129" x="4224" y="768" width="128" height="128"/>
+  <object id="130" x="3712" y="1024" width="128" height="128"/>
+  <object id="131" x="4656" y="644" width="1472" height="224"/>
+ </objectgroup>
+ <objectgroup name="Portals" offsetx="128" offsety="128"/>
+ <objectgroup name="Gold"/>
+ <objectgroup name="Bricks"/>
+ <objectgroup name="EnemyOne">
+  <object id="126" x="2048" y="2048" width="128" height="128"/>
+  <object id="134" x="1536" y="2048" width="128" height="128"/>
+ </objectgroup>
+ <objectgroup name="EnemyTwo"/>
+</map>
