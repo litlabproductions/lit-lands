@@ -26,7 +26,7 @@
 ![bg-fin](https://user-images.githubusercontent.com/34845402/134787582-a2c7fe3f-db82-4cc3-86f6-3c7f8a7eadb4.gif) <br><br><br>
 
 ### Battling Enemies
-   * Each enemy is set initialized in game with health points as well as attack speed and run speed <br><br>
+   * Each enemy is initialized in game with health points as well as attack speed and run speed <br><br>
 ![fight-gif-cropped-fin](https://user-images.githubusercontent.com/34845402/134787408-843d5329-791a-4c74-ab08-3d01c1dd3190.gif)
 <br><br><br>
 
